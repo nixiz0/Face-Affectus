@@ -7,6 +7,8 @@ Building a AI Agent that recognize emotions on faces.
 
 => You will need **Python 3.11.7** & **CUDA 11.8** (for training on your GPU the models)
 
+[You can run the start-app.bat to do the installation very quickly or do yourself with the commands below]
+
 => Create a .env with ```python -m venv .env```
 
 => Activate your env
